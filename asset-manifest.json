@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/liveweb/static/css/main.7ef8de2d.css",
+    "main.js": "/liveweb/static/js/main.acb65ebd.js",
+    "index.html": "/liveweb/index.html",
+    "main.7ef8de2d.css.map": "/liveweb/static/css/main.7ef8de2d.css.map",
+    "main.acb65ebd.js.map": "/liveweb/static/js/main.acb65ebd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef8de2d.css",
+    "static/js/main.acb65ebd.js"
+  ]
+}
